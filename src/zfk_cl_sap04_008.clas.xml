@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZFK_CL_SAP04_008</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Sf. 229 Alistirma - 4</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>ET_SCARR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Airline</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>ET_SFLIGHT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>ET_SPFLI</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight schedule</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>IT_CARRID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of Carrid</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>IV_SCARR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>IV_SFLIGHT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <SCONAME>IV_SPFLI</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SCARR</CMPNAME>
+     <SCONAME>ET_SCARR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Airline</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SCARR</CMPNAME>
+     <SCONAME>IT_CARRID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of Carrid</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SFLIGHT</CMPNAME>
+     <SCONAME>ET_SFLIGHT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SFLIGHT</CMPNAME>
+     <SCONAME>IT_CARRID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of Carrid</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SPFLI</CMPNAME>
+     <SCONAME>ET_SPFLI</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight schedule</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SPFLI</CMPNAME>
+     <SCONAME>IT_CARRID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of Carrid</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
